@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio-uno-alexiscarvajal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test login.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.45.1",
+    "@types/node": "^20.14.9"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
