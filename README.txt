@@ -25,7 +25,7 @@ Ejecución del proyecto:
 	2.- Instalar dependencias: 
 		-	npm init playwright@latest
 		-	seleccionar JavaScript
-		-	dar siguiente a todos los pasos
+		-	dar siguiente a todos los pasos(esto puede tomar un tiempo por favor esperar)
 	3.- Ejecutar el proyecto:
 		- Abrir una terminal 
 		- Ejecutar: npm run test
